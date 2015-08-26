@@ -1,2 +1,5 @@
-# Introduction
-This is a *very basic repo* with just an introduction in [markdown format](https://help.github.com/articles/markdown-basics/). **Replace this header and text in your own repo.**
+## Adam J. Penn
+
+#Computer Science Student
+
+I was born and raised in Chico and am super excited to be going to *CSU CHICO*.
